@@ -1,12 +1,6 @@
-console.log(mensagem);
-
-var mensagem = "ola mundo"
-
-teste()
-
-function teste(){
-    for(let i=0; i <= 10; i++){
-        console.log(i);
-    }
-    console.log(i);
+{
+    var a = 6;
+    console.log(a);
 }
+a = 9;
+console.log(a);
