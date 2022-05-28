@@ -20,6 +20,6 @@ function caixaAlta(obj){
     
 }
 
-const obj = {nome: "Lari linda"}
+const obj = {nome: "Larissa}
 
 caixaAlta(obj)
