@@ -1,6 +1,3 @@
-{
-    var a = 6;
-    console.log(a);
-}
-a = 9;
-console.log(a);
+module.exports = {a: 460, b: 872, c: 123}
+
+console.log(this.a)
